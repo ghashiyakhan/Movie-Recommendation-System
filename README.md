@@ -1,3 +1,4 @@
+![Movie Recommendation System Banner](banner.png)
 # Movie Recommendation System
 
 ## 1. Project Overview
